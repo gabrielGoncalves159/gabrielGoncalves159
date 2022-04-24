@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Gabriel!
 
-- 💻 Trabalho como Analista de Testes, objetivo, se tornar programador.
+- 💻 Estudando programação com o objetivo de se tornar um desenvolvedor.
 - 📖 Cursando Analise e Desenvolvimento de Sistemas
 
 
