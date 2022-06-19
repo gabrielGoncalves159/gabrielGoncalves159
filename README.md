@@ -1,13 +1,13 @@
 ### Olá, Eu sou o Gabriel!
 
-- 💻 Estudando programação com o objetivo de se tornar um desenvolvedor.
+- 💻 Desenvolvedor Full Stack Jr.
 - 📖 Cursando Analise e Desenvolvimento de Sistemas
 
 
 <div align="center">
   <a href="https://github.com/gabrielGoncalves159">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielGoncalves159&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielGoncalves159&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielGoncalves159&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielGoncalves159&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ##  
